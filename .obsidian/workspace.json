@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Harris_Market_Microstructure/00_Reading_Plan/Harris阅读路线.md",
-                "mode": "source",
+                "file": "01_Harris_Market_Microstructure/01_Chapter_Notes/第4章_订单属性.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harris阅读路线"
+              "title": "第4章_订单属性"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -185,7 +187,11 @@
   },
   "active": "3e9505d41726ca96",
   "lastOpenFiles": [
+    "01_Harris_Market_Microstructure/什么是金融市场：资产、参与者、收益与风险的整体框架.md",
+    "01_Harris_Market_Microstructure/02_Concepts/订单.md",
     "01_Harris_Market_Microstructure/01_Chapter_Notes/第4章_订单属性.md",
+    "01_Harris_Market_Microstructure/05_Quant_Links/第4章_订单属性_量化联立.md",
+    "01_Harris_Market_Microstructure/00_Reading_Plan/第5章_市场结构_阅读指引.md",
     "01_Harris_Market_Microstructure/00_Reading_Plan/Harris阅读路线.md",
     "00_Dashboard/仓库结构说明.md",
     "01_Finance_Fundamentals/什么是金融市场：资产、参与者、收益与风险的整体框架.md",
